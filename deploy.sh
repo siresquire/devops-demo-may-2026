@@ -1,5 +1,5 @@
 #!/bin/bash
-
+Testing Git Fetch
 echo "Deploying app..."
 echo "Done."
 echo "I switched to the branch chanik"
